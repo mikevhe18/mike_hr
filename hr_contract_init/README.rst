@@ -2,9 +2,9 @@
    :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
    :alt: License: AGPL-3
     
-======================================
-Website Membership Contact Visibility
-======================================
+=============================
+Human Resources Contract Init
+=============================
 
 Define Initial Settings on New Contracts:
     - Starting Wages
@@ -14,25 +14,12 @@ Define Initial Settings on New Contracts:
 Installation
 ============
 
-To install this module, you need to:
-
-1.  Clone the branch 8.0 of the repository https://github.com/OCA/website
-2.  Add the path to this repository in your configuration (addons-path)
-3.  Update the module list
-4.  Go to menu *Setting -> Modules -> Local Modules*
-5.  Search For *Website Membership Contact Visibility*
-6.  Install the module
+#TO DO
 
 Usage
 =====
 
-To use this module, you need to:
-
-1.  Go to menu *Association -> Members -> Members*
-2.  Then click on one of members name so get into form view
-3.  Within the *Membership* tab, there will be a new field named *Visible In The Website*
-4.  If you want the contact information of the member visible on the website, just klik into *Published*.
-    If you dont want the contact information of the member visible on the website, just klik into *Not Published*     
+# TO DO
 
 .. image:: https://odoo-community.org/website/image/ir.attachment/5784_f2813bd/datas
    :alt: Try me on Runbot
